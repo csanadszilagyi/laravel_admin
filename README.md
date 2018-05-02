@@ -2,7 +2,7 @@
 Simple admin dashboard built with Laravel 5.6.
 
 Features:
-- login and register funcionality
+- login and register funcionality (register temporarily removed)
 - user roles and permissions
 - captcha shows up after 3 failed login atempts
 
