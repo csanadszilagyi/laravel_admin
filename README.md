@@ -14,7 +14,7 @@ Installing steps:
   - clone this repo
   - rename .env.example file to .env
   - set your database info and app name here
-  In your command prompt:
+  - in your command prompt:
     - composer install
     - php artisan key:generate
     - composer dump-autoload
