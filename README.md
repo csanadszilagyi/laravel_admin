@@ -8,6 +8,7 @@ Features:
   - with other roles, pages are shown according to role permissions
 - captcha shows up after 3 failed login atempts
 - sessions, users stored in database
+- bootstrap 4
 
 Installing steps:
   - clone this repo
