@@ -20,3 +20,4 @@ Installing steps:
     - it makes the migrations and adds users with roles: Admin, User 1, User 2, User 3
     - password for all users is: test77
   - to change frontend things, additionally you can run: npm install, npm run dev
+ 
