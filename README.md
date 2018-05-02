@@ -12,7 +12,6 @@ Installing steps:
   - set your database info and app here
   - composer install
   - in console: php artisan key:generate
-  - php artisan migrate:install
   - composer dump-autoload
   - php artisan migrate:refresh --seed
   - npm install
