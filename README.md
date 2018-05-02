@@ -4,7 +4,10 @@ Simple admin dashboard built with Laravel 5.6.
 Features:
 - login and register funcionality (register temporarily removed)
 - user roles and permissions
+  - as an admin, you can see all the pages
+  - with other roles, pages are shown according to role permissions
 - captcha shows up after 3 failed login atempts
+- sessions, users stored in database
 
 Installing steps:
   - clone this repo
