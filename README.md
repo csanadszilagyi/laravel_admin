@@ -14,11 +14,12 @@ Installing steps:
   - clone this repo
   - rename .env.example file to .env
   - set your database info and app name here
-  - composer install
-  - php artisan key:generate
-  - composer dump-autoload
-  - php artisan migrate:refresh --seed 
-    - it makes the migrations and adds users with roles: Admin, User 1, User 2, User 3
-    - password for all users is: test77
-  - to change frontend things, you can run: npm install, npm run dev
+  In your command prompt:
+    - composer install
+    - php artisan key:generate
+    - composer dump-autoload
+    - php artisan migrate:refresh --seed 
+      - it makes the migrations and adds users with roles: Admin, User 1, User 2, User 3
+      - password for all users is: test77
+    - to change frontend things, you can run: npm install, npm run dev
  
